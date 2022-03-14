@@ -15,3 +15,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: docker-excercise12345678
           heroku_email: santtu.f@gmail.com
+          usedocker: true
